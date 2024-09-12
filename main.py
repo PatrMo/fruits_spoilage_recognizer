@@ -4,6 +4,8 @@ import keras
 from keras import layers
 from tensorflow import data as tf_data
 import matplotlib.pyplot as plt
+from PIL import Image
+
 
 trainingData = ["freshapples",
                 "freshbanana",

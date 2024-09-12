@@ -1,0 +1,5 @@
+keras==2.13.1
+kerasCV==0.0.40
+tensorflow==2.13.0
+pillow==10.40.0
+matplotlib==3.7.5
